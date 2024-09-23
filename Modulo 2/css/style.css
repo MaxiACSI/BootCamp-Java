@@ -296,6 +296,7 @@ footer a {
     .inicio-content {
         grid-template-columns: 1fr;
         text-align: center;
+        max-width: 20rem;
     }
 
     .name-title h1 {
