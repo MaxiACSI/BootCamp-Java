@@ -23,6 +23,7 @@ nav ul li a {
     display: block;
     padding: 12px 17px;
     color: white;
+    border-radius: 8px;
     text-decoration: none;
     margin-right: 12px;
     margin-left: 12px;
